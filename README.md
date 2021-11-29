@@ -18,4 +18,4 @@ random-arcane-name
 If someone wants to add or improve something, like names or refactor code, I invite you to collaborate directly in this repository: [arcane-random-names](https://github.com/SpideyBoy23/arcane-random-names.git)
 
 # License
-random-msg is released under the [MIT License](https://opensource.org/licenses/MIT).
+arcane-random-names is released under the [MIT License](https://opensource.org/licenses/MIT).
