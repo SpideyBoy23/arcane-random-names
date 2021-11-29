@@ -15,7 +15,15 @@
   "author": "Charly Arreola <spidev.cto@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-arcane-name": "./bin/global.js"
+    "random-arcane-name": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpideyBoy23/arcane-random-names.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SpideyBoy23/arcane-random-names/issues"
+  },
+  "homepage": "https://github.com/SpideyBoy23/arcane-random-names#readme"
 }
