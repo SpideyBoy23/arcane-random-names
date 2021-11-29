@@ -1,0 +1,21 @@
+{
+  "name": "arcane-random-names",
+  "version": "1.0.3",
+  "description": "random de nombres de la serie arcane",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Charly Arreola <spidev.cto@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-arcane-name": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
